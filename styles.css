@@ -1,0 +1,33 @@
+body {
+  background-color: #50a3a2;
+  color: #000;
+}
+
+.container {
+  margin: 10% auto;
+  text-align: center;
+}
+
+h1 {
+  margin-bottom: 100px;
+}
+
+input {
+  width: 250px;
+  padding: 10px 15px;
+  margin: 0 auto 10px auto;
+  text-align: center;
+  font-size: 18px;
+  font-weight: 300;
+  border-radius: 8px;
+}
+
+button {
+  width: 100px;
+  padding: 10px 15px;
+  margin: 0 auto 10px auto;
+  text-align: center;
+  font-size: 18px;
+  font-weight: 300;
+  border-radius: 8px;
+}
